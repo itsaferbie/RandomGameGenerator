@@ -1,0 +1,34 @@
+﻿<Window x:Class="RandomGameGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        ResizeMode="CanMinimize"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Random Game Generator" Height="120" Width="260">
+    <DockPanel Background="DarkGray">
+        <DockPanel Margin="0,0,0,40">
+            <Label Height="25">
+                Game:
+            </Label>
+                
+            <TextBox x:Name="gameBox"
+                     Height="25"
+                     Width="90">
+                    
+            </TextBox>
+
+            <Label Height="25">
+                Type:
+            </Label>
+
+            <TextBox Height="25"
+                     Width="70"
+                     x:Name="typeBox">
+            </TextBox>
+        </DockPanel>
+        <Button Height="25"
+                Width="160"
+                Margin="-240,40,0,0"
+                Click="Button_Click">
+            Genterate Game and Type
+        </Button>
+    </DockPanel>
+</Window>

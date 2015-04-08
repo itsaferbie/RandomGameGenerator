@@ -1,0 +1,17 @@
+E:\Dropbox\C#Programming\RandomGameGenerator\RandomGameGenerator\bin\Debug\RandomGameGenerator.exe.config
+E:\Dropbox\C#Programming\RandomGameGenerator\RandomGameGenerator\bin\Debug\RandomGameGenerator.exe
+E:\Dropbox\C#Programming\RandomGameGenerator\RandomGameGenerator\bin\Debug\RandomGameGenerator.pdb
+E:\Dropbox\C#Programming\RandomGameGenerator\RandomGameGenerator\obj\Debug\RandomGameGenerator.csprojResolveAssemblyReference.cache
+E:\Dropbox\C#Programming\RandomGameGenerator\RandomGameGenerator\obj\Debug\MainWindow.baml
+E:\Dropbox\C#Programming\RandomGameGenerator\RandomGameGenerator\obj\Debug\MainWindow.g.cs
+E:\Dropbox\C#Programming\RandomGameGenerator\RandomGameGenerator\obj\Debug\App.g.cs
+E:\Dropbox\C#Programming\RandomGameGenerator\RandomGameGenerator\obj\Debug\RandomGameGenerator_MarkupCompile.cache
+E:\Dropbox\C#Programming\RandomGameGenerator\RandomGameGenerator\obj\Debug\RandomGameGenerator.g.resources
+E:\Dropbox\C#Programming\RandomGameGenerator\RandomGameGenerator\obj\Debug\RandomGameGenerator.Properties.Resources.resources
+E:\Dropbox\C#Programming\RandomGameGenerator\RandomGameGenerator\obj\Debug\RandomGameGenerator.csproj.GenerateResource.Cache
+E:\Dropbox\C#Programming\RandomGameGenerator\RandomGameGenerator\obj\Debug\RandomGameGenerator.exe
+E:\Dropbox\C#Programming\RandomGameGenerator\RandomGameGenerator\obj\Debug\RandomGameGenerator.pdb
+E:\Dropbox\C#Programming\RandomGameGenerator\RandomGameGenerator\bin\Debug\RandomGameGenerator.exe.manifest
+E:\Dropbox\C#Programming\RandomGameGenerator\RandomGameGenerator\bin\Debug\RandomGameGenerator.application
+E:\Dropbox\C#Programming\RandomGameGenerator\RandomGameGenerator\obj\Debug\RandomGameGenerator.exe.manifest
+E:\Dropbox\C#Programming\RandomGameGenerator\RandomGameGenerator\obj\Debug\RandomGameGenerator.application

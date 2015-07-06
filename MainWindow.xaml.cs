@@ -20,9 +20,9 @@ namespace RandomGameGenerator
     /// </summary>
     public partial class MainWindow : Window
     {
-        
-        string[] games = new string[18] { "Ball and Paddle", "Beat 'em Up", "Fighting", "Maze", "Pinball", "Platform", "FPS", "Shoot 'em up", "Stealth", "Survival", "Text", "Visual Novel", "RPG", "Racing", "Musical", "Puzzle", "Tivia", "Board/ Card" };
-        string[] types = new string[9] { "Outer space", "Horror", "Action", "Medieval", "Crime", "Adventure", "Mystery", "War", "Arcade style" };
+
+        string[] games = System.IO.File.ReadAllLines(AppDomain.CurrentDomain.BaseDirectory + "textFiles\\games.txt");
+        string[] types = System.IO.File.ReadAllLines(AppDomain.CurrentDomain.BaseDirectory + "textFiles\\types.txt");
         public MainWindow()
         {
             InitializeComponent();

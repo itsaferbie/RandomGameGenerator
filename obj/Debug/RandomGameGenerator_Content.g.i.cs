@@ -8,6 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("control_icon_ico.ico")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("textfiles/games.txt")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("textfiles/types.txt")]
 
 

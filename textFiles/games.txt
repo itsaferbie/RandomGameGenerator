@@ -1,0 +1,18 @@
+Ball and Paddle
+Beat 'em Up
+Fighting
+Maze
+Pinball
+Platform
+FPS
+Shoot 'em up
+Stealth
+Survival
+Text
+Visual Novel
+RPG
+Racing
+Musical
+Puzzle
+Tivia
+Board/ Card
